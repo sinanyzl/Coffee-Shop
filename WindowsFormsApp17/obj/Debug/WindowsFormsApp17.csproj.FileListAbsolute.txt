@@ -1,0 +1,57 @@
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\RdlCompile.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\RdlCompile.compiled
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.coffeeshop.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.LoadData.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.LoginForm.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.MainForm.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.RegistrationForm.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\QRCoder.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.ScanForm.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.presentation.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.presentation.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.attendanceForm.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.StudentInfo.resources
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.DirectShow.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\QRCoder.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.presentation.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.xml
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.xml
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\AForge.Video.DirectShow.xml
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.xml
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\zxing.presentation.xml
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojResolveAssemblyReference.cache
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.LoadData.resources
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.Cache
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+D:\arduino\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
